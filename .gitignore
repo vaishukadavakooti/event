@@ -1,0 +1,10 @@
+# Python ignores
+__pycache__
+*.pyc
+
+# IDE ignores
+.vscode/
+
+# Database ignores
+db.sqlite3
+migrations
